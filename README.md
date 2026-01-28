@@ -57,4 +57,8 @@
 </div>
 
 ###
+<p align="center">
+  <img src="https://gifdb.com/images/high/japanese-wave-splashing-quickly-itofetrntg0avfjq.gif" width="100%" height="280px" style="object-fit: cover; object-position: center; border-radius: 10px;">
+</p>
 
+###
